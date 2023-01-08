@@ -1,0 +1,19 @@
+id: A15B911FF
+title: Supplication to Milarepa
+type: translation
+pechas:
+- I220E9F20
+- I7673044C
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 13:02:30.815877
+  last_modified_at: 2023-01-04 13:02:30.815885
+  collections:
+  - Milarepa Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I220E9F20/964A: D955
+  I7673044C/B3BA: D955
